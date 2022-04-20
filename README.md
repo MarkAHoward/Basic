@@ -10,6 +10,5 @@ I used Python 3.10.4 and Visual Studio Code to write the program.  Git was used 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Git Download Windows](https://git-scm.com/download/win)
 * [Python Download](https://www.python.org/downloads/)
