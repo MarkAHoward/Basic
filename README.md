@@ -2,7 +2,7 @@
 
 This is a simple Hello World program.  The purpose of this was to learn how to create a repository and push changes to GitHub.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/S6Zw3-JbtnI)
 
 # Development Environment
 
